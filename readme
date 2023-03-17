@@ -1,0 +1,45 @@
+Django POS
+
+Python, Django, SQLITE3 DB
+
+Point of Sale System Project created using Python Django Framework on the backend and HTML, CSS, and JavaScript 
+on the frontend. 
+It has Admin side which allows extra features like manage product, category, order, users, and inventory.
+
+python version : 3.8 + 
+Programming Language : Python DJango language
+Project type : web based application
+
+Follow this steps to completely run the DJANGO POS.
+on linux
+
+Step 1: pip install virtualenv
+Step 2: virtualenv env
+Step 3: cd env/Scripts
+Step 4: activate
+Step 5: cd ../..
+Step 6: pip install django
+Step 7: python manage.py makemigrations
+Step 8: python manage.py migrate –run-syncdb
+Step 9: python manage.py createsuperuser
+Step 10: python manage.py runserver
+
+Admin Features
+
+Manage Product– For the product, The admin can view, add, edit, and delete product information.
+
+Users Management – For the users, The admin can see the list of users details. Admin can update and delete the record of the users details.
+
+Manage Category– For the category, The admin can see the list of category details. Admin can update and delete the record of the category information.
+
+Manage Order– For the order, The admin can add, edit, and delete order information.
+
+Login – By default the admin need to login first to enable to access the system.
+
+Manage Inventory– For the inventory, The admin can add, edit, and delete inventory information.
+
+USER ACCOUNT 
+
+For admin panel:
+Username: admin
+Password: adminl12345

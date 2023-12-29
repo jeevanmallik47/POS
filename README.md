@@ -87,7 +87,4 @@ pip3 install -r requirements.txt
 
 ###### If PSQL error raise please follow the command:
 ```pip install psycopg2-binary```
-# pos
-# pos
-# pos
-# pos
+
